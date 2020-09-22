@@ -10,6 +10,8 @@
 
 **演讲内容：** https://docs.qq.com/doc/DVlFzeVVqTXV1cHpR
 
+**下期预告：** Laravel的基础优化方向和参考方案 **FateStayNight**
+
 
 
 ### 2020-09-15:
