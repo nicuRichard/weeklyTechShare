@@ -2,6 +2,17 @@
 
 ### 2020-09-22:
 
+**分享题目：** laravel6安装心得
+
+**分享人：** Demon
+
+**关键字：** laravel
+
+**演讲内容：** https://docs.qq.com/doc/DVmdzTXBrSUhhdGlK
+
+
+### 2020-09-22:
+
 **分享题目：** mysql优化
 
 **分享人：** Demon
